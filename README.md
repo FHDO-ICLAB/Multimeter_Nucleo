@@ -1,6 +1,6 @@
 # Multimeter_Nucleo
 
-This project aims to configure the ARM microntroller on STM32 Nucleo board as programmable reference voltage source and a voltmeter. The microntroller reacts on SCPI like ASCII commands received over the UART interface to control its ADC and its DAC accordingly.
+This project aims to configure the ARM microntroller on STM32 Nucleo board as programmable reference voltage source and a voltmeter. The microntroller reacts on SCPI like ASCII commands received over the UART interface to control its ADC and DAC accordingly.
 
 More information can be found in the following bachelor thesis.
 
