@@ -1,0 +1,13 @@
+../Core/Src/1main.c:103:6:HAL_UARTEx_RxEventCallback	24	static
+../Core/Src/1main.c:156:6:Uprintf	16	static
+../Core/Src/1main.c:162:8:get_double	16	static
+../Core/Src/1main.c:173:5:n_tu	24	static
+../Core/Src/1main.c:182:6:float_to_string	136	static
+../Core/Src/1main.c:236:7:lowercase	24	static
+../Core/Src/1main.c:249:5:main	8	static
+../Core/Src/1main.c:417:6:SystemClock_Config	232	static
+../Core/Src/1main.c:472:13:MX_DAC1_Init	48	static
+../Core/Src/1main.c:519:13:MX_USART2_UART_Init	8	static
+../Core/Src/1main.c:552:13:MX_DMA_Init	16	static
+../Core/Src/1main.c:570:13:MX_GPIO_Init	48	static
+../Core/Src/1main.c:596:6:Error_Handler	4	static,ignoring_inline_asm
